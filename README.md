@@ -1,4 +1,4 @@
-### Hi, my name is Luke I'm a budding software developer learning rust 👋
+### Hi my name is Luke, I'm a budding software developer learning rust 👋
 
 <!--
 **ldbrierley/ldbrierley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
